@@ -1,0 +1,19 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+.settings/
+
+# Eclipse Core
+.project
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Tern plugin
+.tern-project
+/target/
